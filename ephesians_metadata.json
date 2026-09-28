@@ -1,0 +1,38 @@
+{
+  "dataset": "Lokele-English Parallel Corpus",
+  "book": "Ephesians",
+  "book_code": "EPH",
+  "chapters": {
+    "start": 1,
+    "end": 6
+  },
+  "lokele": {
+    "language": "Lokele",
+    "translation": "NTKE58",
+    "bible_com_version_id": 1496
+  },
+  "english": {
+    "language": "English",
+    "translation": "WEBUS",
+    "bible_com_version_id": 206
+  },
+  "statistics": {
+    "lokele_verses": 155,
+    "english_verses": 155,
+    "aligned_verses": 155,
+    "missing_lokele": 0,
+    "missing_english": 0,
+    "pages_processed": 12,
+    "pages_failed": 0,
+    "pages_expected": 12
+  },
+  "status": {
+    "complete": true,
+    "finish_reason": "finished"
+  },
+  "files": {
+    "dataset": "ephesians_lokele_english.jsonl",
+    "missing": "ephesians_missing.json",
+    "metadata": "ephesians_metadata.json"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "dataset": "Lokele-English Parallel Corpus",
+  "book": "Luke",
+  "book_code": "LUK",
+  "chapters": {
+    "start": 1,
+    "end": 24
+  },
+  "lokele": {
+    "language": "Lokele",
+    "translation": "NTKE58",
+    "bible_com_version_id": 1496
+  },
+  "english": {
+    "language": "English",
+    "translation": "WEBUS",
+    "bible_com_version_id": 206
+  },
+  "statistics": {
+    "lokele_verses": 1144,
+    "english_verses": 1151,
+    "aligned_verses": 1144,
+    "missing_lokele": 7,
+    "missing_english": 0,
+    "pages_processed": 48,
+    "pages_failed": 0,
+    "pages_expected": 48
+  },
+  "status": {
+    "complete": false,
+    "finish_reason": "finished"
+  },
+  "files": {
+    "dataset": "luke_lokele_english.jsonl",
+    "missing": "luke_missing.json",
+    "metadata": "luke_metadata.json"
+  }
+}

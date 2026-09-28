@@ -1,0 +1,38 @@
+{
+  "dataset": "Lokele-English Parallel Corpus",
+  "book": "Acts",
+  "book_code": "ACT",
+  "chapters": {
+    "start": 1,
+    "end": 28
+  },
+  "lokele": {
+    "language": "Lokele",
+    "translation": "NTKE58",
+    "bible_com_version_id": 1496
+  },
+  "english": {
+    "language": "English",
+    "translation": "WEBUS",
+    "bible_com_version_id": 206
+  },
+  "statistics": {
+    "lokele_verses": 1004,
+    "english_verses": 1007,
+    "aligned_verses": 1004,
+    "missing_lokele": 3,
+    "missing_english": 0,
+    "pages_processed": 56,
+    "pages_failed": 0,
+    "pages_expected": 56
+  },
+  "status": {
+    "complete": false,
+    "finish_reason": "finished"
+  },
+  "files": {
+    "dataset": "acts_lokele_english.jsonl",
+    "missing": "acts_missing.json",
+    "metadata": "acts_metadata.json"
+  }
+}

@@ -1,0 +1,415 @@
+{
+  "LUK.15": [
+    {
+      "id": "LUK.15.1",
+      "verse": 1,
+      "lokele": "Limɔ bɛsɔnji ya bɛsɔmbi la bato ba njasɔ ibe, iyo yaatotina loya tina lande ndoyalaila Yesu;"
+    },
+    {
+      "id": "LUK.15.2",
+      "verse": 2,
+      "lokele": "la BaFalusi la Batikasa imɔ loimaima mbo— Boto-yo atonyangela ebabe la atolana lau bieka."
+    },
+    {
+      "id": "LUK.15.3",
+      "verse": 3,
+      "lokele": "Eokao, Yesu lokambes’iyo ebombila-bo, Inde mbo—"
+    },
+    {
+      "id": "LUK.15.4",
+      "verse": 4,
+      "lokele": "¿Oni boto wanu oyayali la bɛkɔkɔ kama liu, elefesa ango ɔmɔi wau, aitomacha yao kama libwa la libwa nda isimo, ani inde atɔkɛ okaluke bona ebosolefana, ko nd’akoshek’inde wao?"
+    },
+    {
+      "id": "LUK.15.5",
+      "verse": 5,
+      "lokele": "Akoshek’inde wao, inde kota wao nda kɔndɛ yande la limɛngɔ;"
+    },
+    {
+      "id": "LUK.15.6",
+      "verse": 6,
+      "lokele": "limɔ akayek’inde nda ndakɔ yande, inde kota baina lande la bayalani lande lioi, inde koonga lau mbo— Okaka limɛngɔ amamwito lami, eoka isoosha bɔkɔkɔ ewalefäkä."
+    },
+    {
+      "id": "LUK.15.7",
+      "verse": 7,
+      "lokele": "Imi nd’atoonga lanu-mbo— Ko ongoma limɛngɔ liokanaka nda Use loasɔ loa boto ɔmwito wa obe oyatokalangana, elitoeta limɛngɔ loasɔ loa bato kama libwa la libwa ba liengani, ebati la boeno wa likalangani."
+    },
+    {
+      "id": "LUK.15.8",
+      "verse": 8,
+      "lokele": "Botomali to oyale la falanga liu; ¿elefesa lɔmɔi, mbo aitoanesa täla, aitɔɔmbɔkɔ ndakɔ okaluke la bofiili kond’akoshek’inde loao?"
+    },
+    {
+      "id": "LUK.15.9",
+      "verse": 9,
+      "lokele": "Limɔ akoshek’inde loao, inde kota baina la bayalani lande lioi, mbo— Okaka limɛngɔ amamwito lami, eoka isoosha lofalanga elolefesiki’mi."
+    },
+    {
+      "id": "LUK.15.10",
+      "verse": 10,
+      "lokele": "Itoonga lanu mbo— Ko ongoma limɛngɔ liokanaka nda baiso ba Bakitomo ba Mungu loasɔ loa boto ɔmwito wa obe oyatokalangana."
+    },
+    {
+      "id": "LUK.15.11",
+      "verse": 11,
+      "lokele": "Yesu loonga mbo— Boto ɔmɔi aaka la bana batolome ambale,"
+    },
+    {
+      "id": "LUK.15.12",
+      "verse": 12,
+      "lokele": "la etungani loonga la sango wande mbo— Fafa, faka’mi likaɔ lia botiko elikaɔlɛkɛ’mi. La sango lokaana lau bitotina yande."
+    },
+    {
+      "id": "LUK.15.13",
+      "verse": 13,
+      "lokele": "Mbisa ya becho bimɔi itungangɔlɔ losɔnjaka eyande bitoti, inde lomacha bokenge wande okakɛ yese y’esika; omao inde lomelekesa bieto yande ko la yeka wawa."
+    },
+    {
+      "id": "LUK.15.14",
+      "verse": 14,
+      "lokele": "La asilesäk’inde bieto yande bitotina, limɔ löndo lofi lokwa nda yese ena, inde loakola ndoyala la boeno ofi."
+    },
+    {
+      "id": "LUK.15.15",
+      "verse": 15,
+      "lokele": "Inde lɔkɛ okawatema la boto ɔmɔi wa yese ena la boto ona lotom’inde nda bilanga yande mbo afeke ndei yande bieka."
+    },
+    {
+      "id": "LUK.15.16",
+      "verse": 16,
+      "lokele": "Inde lookaka yɛmɛ yookanelo la mboso ya kunde eyaläkä ndei, nde angwɛnɛ boto wof’inde yeka."
+    },
+    {
+      "id": "LUK.15.17",
+      "verse": 17,
+      "lokele": "Aenyäk’inde loasɔ loande, inde mbo— Aina basali ba sango wami bende la bieka yoengana la yosandelo se ani imi nd’asowa eyamaya l’isiyɛ."
+    },
+    {
+      "id": "LUK.15.18",
+      "verse": 18,
+      "lokele": "Itoemala ikɛkɛ ende sango wami, yeongaka lande mbo— Fafa, isotwanelo oso wa Use la nda baiso baɛ imɔ,"
+    },
+    {
+      "id": "LUK.15.19",
+      "verse": 19,
+      "lokele": "itiengane ndotangomo imɔ wana waɛ; sɛlɛkɛ’mi kwani ayali basali baɛ."
+    },
+    {
+      "id": "LUK.15.20",
+      "verse": 20,
+      "lokele": "Inde loemala, inde lɔkɛ ende sango wande. Nde akoyal’inde esika, sango wande lɔɛnɛ wana, inde lookel’inde ngandi, inde lokwa mangu okakusamel’inde kingo, inde lofa wana ichɔu;"
+    },
+    {
+      "id": "LUK.15.21",
+      "verse": 21,
+      "lokele": "Wana loonga la sango mbo— Fafa, isotwanelo oso wa Use la nda baiso baɛ, itiengane ndotangomo imɔ wana waɛ; sɛlɛkɛ’mi kwani ayali basali baɛ."
+    },
+    {
+      "id": "LUK.15.22",
+      "verse": 22,
+      "lokele": "Kongo ko sango loonga la bɛkɔwa yande mbo— Mangumangu; eshaka kanju eyelau finɛ, watesak’inde, fak’inde iketi shota nda isangakala shande la tokwaka twa batindi bande,"
+    },
+    {
+      "id": "LUK.15.23",
+      "verse": 23,
+      "lokele": "eshaka efembeli ya ngɔmbɛ bonuku, olaka yao, toleke elambɔ la limɛngɔ;"
+    },
+    {
+      "id": "LUK.15.24",
+      "verse": 24,
+      "lokele": "eoka mbo wana-yo wami awäkä la akoyali; alefäkä, nde asɔɛnɛlɛ oko liasi; la iyo loakola ndoficha limɛngɔ."
+    },
+    {
+      "id": "LUK.15.25",
+      "verse": 25,
+      "lokele": "Kongo ko wana wange loyala nda elanga. Ainwäk’inde la ayaläk’inde tina la ndakɔ inde looka bakwengu la bɛɛlɛ ya bisha."
+    },
+    {
+      "id": "LUK.15.26",
+      "verse": 26,
+      "lokele": "Inde lota wana ɔmɔi lioi, inde lofel’inde litina lia loasɔ-lo."
+    },
+    {
+      "id": "LUK.15.27",
+      "verse": 27,
+      "lokele": "Inde lomutola mbo— Etungani yaɛ asoya la sango waɛ asoola efembeli ya ngɔmbɛ bonuku, eoka asoosh’inde la bosasu la wɛlï."
+    },
+    {
+      "id": "LUK.15.28",
+      "verse": 28,
+      "lokele": "Nde boloo lotwa bolengi, la atilɛmbɛkɛ ndɔɔtɔ nda ndakɔ. Nde sango wande lokuswa ndokalɔmbɔkɔl’inde,"
+    },
+    {
+      "id": "LUK.15.29",
+      "verse": 29,
+      "lokele": "limɔ inde lomutola la sango mbo— Toka! Isokuwel’aɛ kwa bɔkɔwa emiaka-bi wike, ikatefoli ndola yaɛ ango ɛmɔi, nde otifeke’mi ango efembeli ya mbuli mbo ificheke limɛngɔ amamwito la baina lami;"
+    },
+    {
+      "id": "LUK.15.30",
+      "verse": 30,
+      "lokele": "kongo ko asoya ewana-yo waɛ, oyasolaka bieto yaɛ amamwito la batomali ba bolëfë, oisoolel’inde efembeli ya ngɔmbɛ bonuku."
+    },
+    {
+      "id": "LUK.15.31",
+      "verse": 31,
+      "lokele": "Sango loonga lande mbo— Wana, wende lami becho betotina, la bitotina yami yende imɔ ko eyaɛ."
+    },
+    {
+      "id": "LUK.15.32",
+      "verse": 32,
+      "lokele": "Loondu nde mbo tokeleke elambɔ la limɛngɔ, eoka etungani yaɛ’yo, awäkä nde akoyali la liwawi; alefäkä, nde asɔɛnɛlɛ oko liasi."
+    }
+  ],
+  "ACT.6": [
+    {
+      "id": "ACT.6.1",
+      "verse": 1,
+      "lokele": "Nda mbile ena eyaulwaka loketi loa baeki, BaHɛlɛnɛ lokimakimela BaEbele eoka mbo ebawelu balome bau baomelesomökö nda bakaɔ ba lise la lise."
+    },
+    {
+      "id": "ACT.6.2",
+      "verse": 2,
+      "lokele": "Eokao eba liu la ambale losɔngɔmɛsɛ etunda ya baeki, iyo loonga lau mbo— Lotiengane lasu mbo tomacheke ndonangola Lioi lia Mungu ndokakela likuwa lia mɛsa;"
+    },
+    {
+      "id": "ACT.6.3",
+      "verse": 3,
+      "lokele": "eokao, Beoto, aaka bato bosambale banu ba lokuku lolau, ebasotuma la Bolimo Botanu la wɛlï la totof’iyo isosha sha e-likuwa-li."
+    },
+    {
+      "id": "ACT.6.4",
+      "verse": 4,
+      "lokele": "Nde iso nd’atotimbanaka la lisomboli la linangoli lia lioi."
+    },
+    {
+      "id": "ACT.6.5",
+      "verse": 5,
+      "lokele": "Batotina ba etunda looka olau nda baoi-ba; iyo loaa e-bato-ba, bako-Setefano, boto oyatumaka la liimeli la Bolimo Botanu, la Filipo, la Pɔlɔkɔlɔ, la Nikanola, la Timona, la Pamena, la Nikolau ewa ndimela wa Antiokia."
+    },
+    {
+      "id": "ACT.6.6",
+      "verse": 6,
+      "lokele": "Iyo loemesa e-bato-ba oso wa Batomomu, limɔ mbisa ya lisomboli, iyo lotelel’iyo bangasa nda botö."
+    },
+    {
+      "id": "ACT.6.7",
+      "verse": 7,
+      "lokele": "Lamao lioi lia Mungu lɔsɛngɛ finɛ la loketi loa baeki nda Yelusaleme loulwaka likama la bokamu wa kanga lolitesa liimeli-li."
+    },
+    {
+      "id": "ACT.6.8",
+      "verse": 8,
+      "lokele": "La Setefano oyatumesomoko la booto la bofoka, inde lokela ndembe ya bisisho wike sisi ya bato."
+    },
+    {
+      "id": "ACT.6.9",
+      "verse": 9,
+      "lokele": "Nde bamɔi ba ɛsɔngɔmɛlɔ ya ebatotangomu Libetino la eba Kulɛnɛ la eba Alesandulea, la eba Kilikia la Asia, iyo loemakala ndowalana la Setefano,"
+    },
+    {
+      "id": "ACT.6.10",
+      "verse": 10,
+      "lokele": "nde batiakɔkɔlɔkɔ ndolongela wɛlï la bolimo ewaongaka lande."
+    },
+    {
+      "id": "ACT.6.11",
+      "verse": 11,
+      "lokele": "Eokao iyo lofɔlɔ bato ba fɔki mbo baongeke mbo— Tosok’inde atoonga baoi bosɛɔlɔ Mɔsɛ la Mungu imɔ."
+    },
+    {
+      "id": "ACT.6.12",
+      "verse": 12,
+      "lokele": "Ongoma iyo lofumbesa bato la biange la batikasa, limɔ iyo loyaosha Setefano, iyo loundes’inde la shɔngɔlɔ, iyo loesh’inde oso w’ikumbɛ."
+    },
+    {
+      "id": "ACT.6.13",
+      "verse": 13,
+      "lokele": "Limɔ bawanjeli ba nanga loemesana ebaongaka mbo— E-boto-yo angomacha ndoonga totefola loasɔ loa Elela-ye etanu la Bikela imɔ."
+    },
+    {
+      "id": "ACT.6.14",
+      "verse": 14,
+      "lokele": "Tosok’inde atoonga mbo Yesu wa Nasaleta-yo efandolaka elela-ye la ekindolaka biyaelo yasu eyafomoko iso la Mɔsɛ."
+    },
+    {
+      "id": "ACT.6.15",
+      "verse": 15,
+      "lokele": "Batotina ebayalaka se nda ikumbɛ lowɛlɛ inde bonono, iyo lɔɛnɛ bɔmbɔ wande kwa bɔfɔnɔ wa bɔmbɔ wa Bokitomo."
+    }
+  ],
+  "2CO.6": [
+    {
+      "id": "2CO.6.1",
+      "verse": 1,
+      "lokele": "Ongoma to iso ebasokelana la Masiya elikuwa-li, tosolɔmbɔkɔl’ino mbo wɔlɛ̈kɛ booto wa Mungu liɔlɛlɛ, eoka Inde loonga mbo—"
+    },
+    {
+      "id": "2CO.6.2",
+      "verse": 2,
+      "lokele": "Nda fofe yɔɔlɛlɛ, isolail’aɛ,"
+    },
+    {
+      "id": "2CO.6.3",
+      "verse": 3,
+      "lokele": "Totikufese boto angɔmɔi ango sinyo mbo likuwa-li litafomo liɛngɔ."
+    },
+    {
+      "id": "2CO.6.4",
+      "verse": 4,
+      "lokele": "Kongo ko iso ebatokuwela Mungu tosokota ndoengana la wɛlï nda likuwa; ko la likɔkɔmɛlɛ eliti la itɔɔ, la nda bifembi, la nda baömä,"
+    },
+    {
+      "id": "2CO.6.5",
+      "verse": 5,
+      "lokele": "la nda bakuchomu, nda bɔnyɔlɔlɔ, nda besho, nda bonui, la botengu wa bocho, la nda londo;"
+    },
+    {
+      "id": "2CO.6.6",
+      "verse": 6,
+      "lokele": "ko la botanu wa bekeeli, nda liluwanesi lia Bolimo, nda bofiili, la bɔfɔɔmu, la nda booto; nda bolimo botanu, la losamɔ eloti la bolimbake;"
+    },
+    {
+      "id": "2CO.6.7",
+      "verse": 7,
+      "lokele": "la nda lioi lia momongo, nda bofoka wa Mungu; la biɛla ya liengani nda bosamba wa olome la nda bosamba wa wali;"
+    },
+    {
+      "id": "2CO.6.8",
+      "verse": 8,
+      "lokele": "la loliteso lolau la nda sɔni, la lokuku lobe la nda lokuku lolau imɔ. Tosotangomo mbo tolimbichɔli, nde twende eba momongo;"
+    },
+    {
+      "id": "2CO.6.9",
+      "verse": 9,
+      "lokele": "bamɔi angoluw’iso ango sinyo, nde basi basoluwana lasu la wɛlï, tosotangomo mbo ebasambowa; nde tɛnɛngo tokowawa; tosokuchomo, nde totiolomo;"
+    },
+    {
+      "id": "2CO.6.10",
+      "verse": 10,
+      "lokele": "tosowa ikɛnɛnɛ, nde mbile la mbile tosoomala la limɛngɔ; twende touwe nde totofotekesa bato wike; toti ango la shaya, nde tososɛlɛ yeka bitotina."
+    },
+    {
+      "id": "2CO.6.11",
+      "verse": 11,
+      "lokele": "Ee, ino BaKolinto, isoasoel’ino bɔnɔkɔ wami la botema wami bole fololo nda baiso banu;"
+    },
+    {
+      "id": "2CO.6.12",
+      "verse": 12,
+      "lokele": "betema yanu bitisɔlɔnɛsɔmɔ ko lasu, nde ino angɛnɛ ososɔlɔnɛsɛ betema yanu!"
+    },
+    {
+      "id": "2CO.6.13",
+      "verse": 13,
+      "lokele": "Inoelaka to’mi ko ongoma, kelaka kwa bana bami, faloelaka’mi betema yanu imɔ!"
+    },
+    {
+      "id": "2CO.6.14",
+      "verse": 14,
+      "lokele": "Wakolëke ndowatemana la bato basi ebatiimele Ngɛnɛ; ¿Liengani la litefoli lia Bikela batosangana to nda lini likaɔ? ¿Linyanya la lilima batosangana la moni?"
+    },
+    {
+      "id": "2CO.6.15",
+      "verse": 15,
+      "lokele": "¿Lini likulyani lisoyala la Masiya la Satana? ¿Boto wa liimeli, la oyatiimele kosukana la lini to lisaɔ?"
+    },
+    {
+      "id": "2CO.6.16",
+      "verse": 16,
+      "lokele": "¿Eyaelo ya Mungu la bɛfɔnɔ ya mungu kokuliana la moni? Eoka iso nd’ayali to eyaelo ya Mungu wa liwawi, kwa aongaka Mungu angɛnɛ mbo—"
+    },
+    {
+      "id": "2CO.6.17",
+      "verse": 17,
+      "lokele": "Eokao, Mungu loonga mbo— Sokwaka sisi yau, sɛnyanaka lau,"
+    },
+    {
+      "id": "2CO.6.18",
+      "verse": 18,
+      "lokele": "Itoyala kwa Sango end’ino la ino koyala kwa bana bami"
+    }
+  ],
+  "2CO.7": [
+    {
+      "id": "2CO.7.1",
+      "verse": 1,
+      "lokele": "Ino ebasamomu lami, ani afomoko iso e-basakä-ba, totaneseke to betema yasu ndosokokola bɔwɛwɛ bototina wa bindo l’ewa botema lisanga, la tükameseke betema yasu uka ende Mungu la lilitesi la bɔwa."
+    },
+    {
+      "id": "2CO.7.2",
+      "verse": 2,
+      "lokele": "Faefaka iso elela nda betema yanu, totikeele boto angɔmɔi wanu bobe, totibebeseke boto angɔmɔi, la totilimbake boto angɔmɔi."
+    },
+    {
+      "id": "2CO.7.3",
+      "verse": 3,
+      "lokele": "Itionge ani ndof’ino se; mba, isotaonga oso mbo ino wende nda betema yasu mbo towatemeke nda liwa la nda liwawi imɔ."
+    },
+    {
+      "id": "2CO.7.4",
+      "verse": 4,
+      "lokele": "Itokambes’ino fololo mbo isotendela ndoomala loasɔ loanu, botema wami bosoaa se suu la bosotuma fuu la lilatemi loasɔ loanu; isoyaimwa yai ani ayali’mi la bifembi imɔ wike."
+    },
+    {
+      "id": "2CO.7.5",
+      "verse": 5,
+      "lokele": "Eoka ayak’iso nda Makedonia bindo yasu bitiaɛumaka ango sinyo, kangä ko bifembi ya bɛfɔnɔ bitotina, bita la bosho lousa la bɔwa nda botema."
+    },
+    {
+      "id": "2CO.7.6",
+      "verse": 6,
+      "lokele": "Kongo ko Inde oyatɔɔngɛsɛ eba betema ya bolito, ako Mungu, Inde nd’aɔngɛsɛkɛ betema yasu eoka ya loyo loa Tito end’iso;"
+    },
+    {
+      "id": "2CO.7.7",
+      "verse": 7,
+      "lokele": "inga loasɔ loa loyo kongo, kangä imɔ loasɔ loa liɔngɛsi la limɛngɔ elisok’inde end’ino la asoluwes’inde oluwesa iso eniya yanu, la ngandi eyokak’ino la yɛmɛ yanu yosungak’mi, eokao im’isooka limɛngɔ finɛ."
+    },
+    {
+      "id": "2CO.7.8",
+      "verse": 8,
+      "lokele": "Ango yeokesak’ino botema wale nda lokasa lona loami, nde kwani itiok’imɔ ikɛnɛnɛ ani yokaka ikɛnɛnɛ nda loao oso, eoka isɔɛnɛ mbo lokasa lona loafak’ino botema wale finɛ, ambo ko mbile sinyo kongo."
+    },
+    {
+      "id": "2CO.7.9",
+      "verse": 9,
+      "lokele": "Kwani isoka limɛngɔ, inga to eoka ya wale ewokak’ino, kangä eoka mbo wakalanganaka eoka ya wale wa betema yanu; wokaka nde wale ewaeshaka Mungu la ongoma otibebesomo ko loasɔ loasu."
+    },
+    {
+      "id": "2CO.7.10",
+      "verse": 10,
+      "lokele": "Botema wale ebososokwa ende Mungu botoesha likalangani elitofɔɔlɔ liuwesi, likalangani liitoesha ikɛnɛnɛ, kongo ko botema wale ebole la eba wenda-bo botofɔɔlɔ liwa angɛnɛ."
+    },
+    {
+      "id": "2CO.7.11",
+      "verse": 11,
+      "lokele": "Tɛnɛ to botema wale ebosoeshel’ino Mungu, mbo bosɔɔlɛs’ino bofiili, aina yɛmɛ yosokola loasɔ nda lokomba, aina lisomi liosoma la bobe, aina bɔwa ndowanga Mungu, aina yɛmɛ ya booto, aina bafumba bokucha bɔfɔɔli wa obe! Nda loasɔ lototina osɔɛnɛsɛ mbo ot’imɔ se nda loao mbo otikulye bɔfɔɔli."
+    },
+    {
+      "id": "2CO.7.12",
+      "verse": 12,
+      "lokele": "Nde ambo yasɔnɔkɔ lokasa end’ino, inga mbo boto ona w’obe akuchomoko, inga loasɔ loa boto ona oyakelomoko obe, kangä mbo yɛmɛ yanu yokɔkɔmɔ nda likuwa liasu liɛnɛlɛkɛ fololo, yasɔnɔkɔ ongoma ko nda baiso ba Mungu."
+    },
+    {
+      "id": "2CO.7.13",
+      "verse": 13,
+      "lokele": "Eokao tososungakomo lanu."
+    },
+    {
+      "id": "2CO.7.14",
+      "verse": 14,
+      "lokele": "Kwa asoomala’mi loasɔ loanu nda batoi ba Tito, ongoma kwa baoi bami end’ino bende wewe, ongoma to loomalo loasu ende Tito eoka yanu lole imɔ ko wewe."
+    },
+    {
+      "id": "2CO.7.15",
+      "verse": 15,
+      "lokele": "Botema wande bosofɛfɛ la losamɔ end’ino ani asoenyakela lilitesi lianu la bɔwa la linyangi ebiɛnɛk’inde omolo eyanu."
+    },
+    {
+      "id": "2CO.7.16",
+      "verse": 16,
+      "lokele": "Isoyaimwa la limɛngɔ eoka isokɔkɔlɔ ndolendelo ino nda njasɔ bitotina."
+    }
+  ]
+}

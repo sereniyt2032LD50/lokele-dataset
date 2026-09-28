@@ -1,0 +1,38 @@
+{
+  "dataset": "Lokele-English Parallel Corpus",
+  "book": "Colossians",
+  "book_code": "COL",
+  "chapters": {
+    "start": 1,
+    "end": 4
+  },
+  "lokele": {
+    "language": "Lokele",
+    "translation": "NTKE58",
+    "bible_com_version_id": 1496
+  },
+  "english": {
+    "language": "English",
+    "translation": "WEBUS",
+    "bible_com_version_id": 206
+  },
+  "statistics": {
+    "lokele_verses": 95,
+    "english_verses": 95,
+    "aligned_verses": 95,
+    "missing_lokele": 0,
+    "missing_english": 0,
+    "pages_processed": 8,
+    "pages_failed": 0,
+    "pages_expected": 8
+  },
+  "status": {
+    "complete": true,
+    "finish_reason": "finished"
+  },
+  "files": {
+    "dataset": "colossians_lokele_english.jsonl",
+    "missing": "colossians_missing.json",
+    "metadata": "colossians_metadata.json"
+  }
+}

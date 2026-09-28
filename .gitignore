@@ -1,0 +1,77 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# =========================
+# Scrapy
+# =========================
+.scrapy/
+
+# =========================
+# Playwright
+# =========================
+playwright-report/
+test-results/
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Diagnostic / Debug Files
+# =========================
+diagnostic_*.html
+diagnostic_*.txt
+diagnostic_*.json
+inspect_*.html
+inspect_*.json
+check_*.html
+check_*.json
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# =========================
+# IDE / Editor
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Environment / Secrets
+# =========================
+.env
+.env.*
+
+# =========================
+# Python Tooling
+# =========================
+.pytest_cache/
+.mypy_cache/

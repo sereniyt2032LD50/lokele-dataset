@@ -1,0 +1,38 @@
+{
+  "dataset": "Lokele-English Parallel Corpus",
+  "book": "2 Peter",
+  "book_code": "2PE",
+  "chapters": {
+    "start": 1,
+    "end": 3
+  },
+  "lokele": {
+    "language": "Lokele",
+    "translation": "NTKE58",
+    "bible_com_version_id": 1496
+  },
+  "english": {
+    "language": "English",
+    "translation": "WEBUS",
+    "bible_com_version_id": 206
+  },
+  "statistics": {
+    "lokele_verses": 61,
+    "english_verses": 61,
+    "aligned_verses": 61,
+    "missing_lokele": 0,
+    "missing_english": 0,
+    "pages_processed": 6,
+    "pages_failed": 0,
+    "pages_expected": 6
+  },
+  "status": {
+    "complete": true,
+    "finish_reason": "finished"
+  },
+  "files": {
+    "dataset": "2_peter_lokele_english.jsonl",
+    "missing": "2_peter_missing.json",
+    "metadata": "2_peter_metadata.json"
+  }
+}

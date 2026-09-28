@@ -1,0 +1,38 @@
+{
+  "dataset": "Lokele-English Parallel Corpus",
+  "book": "2 Corinthians",
+  "book_code": "2CO",
+  "chapters": {
+    "start": 1,
+    "end": 13
+  },
+  "lokele": {
+    "language": "Lokele",
+    "translation": "NTKE58",
+    "bible_com_version_id": 1496
+  },
+  "english": {
+    "language": "English",
+    "translation": "WEBUS",
+    "bible_com_version_id": 206
+  },
+  "statistics": {
+    "lokele_verses": 257,
+    "english_verses": 257,
+    "aligned_verses": 257,
+    "missing_lokele": 0,
+    "missing_english": 0,
+    "pages_processed": 26,
+    "pages_failed": 0,
+    "pages_expected": 26
+  },
+  "status": {
+    "complete": true,
+    "finish_reason": "finished"
+  },
+  "files": {
+    "dataset": "2_corinthians_lokele_english.jsonl",
+    "missing": "2_corinthians_missing.json",
+    "metadata": "2_corinthians_metadata.json"
+  }
+}

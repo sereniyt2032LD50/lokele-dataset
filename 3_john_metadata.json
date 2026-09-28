@@ -1,0 +1,38 @@
+{
+  "dataset": "Lokele-English Parallel Corpus",
+  "book": "3 John",
+  "book_code": "3JN",
+  "chapters": {
+    "start": 1,
+    "end": 1
+  },
+  "lokele": {
+    "language": "Lokele",
+    "translation": "NTKE58",
+    "bible_com_version_id": 1496
+  },
+  "english": {
+    "language": "English",
+    "translation": "WEBUS",
+    "bible_com_version_id": 206
+  },
+  "statistics": {
+    "lokele_verses": 15,
+    "english_verses": 14,
+    "aligned_verses": 14,
+    "missing_lokele": 0,
+    "missing_english": 1,
+    "pages_processed": 2,
+    "pages_failed": 0,
+    "pages_expected": 2
+  },
+  "status": {
+    "complete": false,
+    "finish_reason": "finished"
+  },
+  "files": {
+    "dataset": "3_john_lokele_english.jsonl",
+    "missing": "3_john_missing.json",
+    "metadata": "3_john_metadata.json"
+  }
+}

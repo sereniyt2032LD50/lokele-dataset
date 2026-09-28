@@ -1,0 +1,22 @@
+{
+  "book": "Mark",
+  "book_code": "MRK",
+  "missing_lokele": [
+    "MRK.3.35",
+    "MRK.4.3",
+    "MRK.7.16",
+    "MRK.9.44",
+    "MRK.9.46",
+    "MRK.11.26",
+    "MRK.13.20",
+    "MRK.15.28",
+    "MRK.15.36",
+    "MRK.16.10",
+    "MRK.16.20"
+  ],
+  "missing_english": [
+    "MRK.11.34"
+  ],
+  "missing_lokele_count": 11,
+  "missing_english_count": 1
+}

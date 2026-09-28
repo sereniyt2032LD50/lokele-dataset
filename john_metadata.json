@@ -1,0 +1,38 @@
+{
+  "dataset": "Lokele-English Parallel Corpus",
+  "book": "John",
+  "book_code": "JHN",
+  "chapters": {
+    "start": 1,
+    "end": 21
+  },
+  "lokele": {
+    "language": "Lokele",
+    "translation": "NTKE58",
+    "bible_com_version_id": 1496
+  },
+  "english": {
+    "language": "English",
+    "translation": "WEBUS",
+    "bible_com_version_id": 206
+  },
+  "statistics": {
+    "lokele_verses": 874,
+    "english_verses": 879,
+    "aligned_verses": 874,
+    "missing_lokele": 5,
+    "missing_english": 0,
+    "pages_processed": 42,
+    "pages_failed": 0,
+    "pages_expected": 42
+  },
+  "status": {
+    "complete": false,
+    "finish_reason": "finished"
+  },
+  "files": {
+    "dataset": "john_lokele_english.jsonl",
+    "missing": "john_missing.json",
+    "metadata": "john_metadata.json"
+  }
+}

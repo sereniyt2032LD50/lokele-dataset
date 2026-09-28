@@ -1,0 +1,38 @@
+{
+  "dataset": "Lokele-English Parallel Corpus",
+  "book": "Philippians",
+  "book_code": "PHP",
+  "chapters": {
+    "start": 1,
+    "end": 4
+  },
+  "lokele": {
+    "language": "Lokele",
+    "translation": "NTKE58",
+    "bible_com_version_id": 1496
+  },
+  "english": {
+    "language": "English",
+    "translation": "WEBUS",
+    "bible_com_version_id": 206
+  },
+  "statistics": {
+    "lokele_verses": 104,
+    "english_verses": 104,
+    "aligned_verses": 104,
+    "missing_lokele": 0,
+    "missing_english": 0,
+    "pages_processed": 8,
+    "pages_failed": 0,
+    "pages_expected": 8
+  },
+  "status": {
+    "complete": true,
+    "finish_reason": "finished"
+  },
+  "files": {
+    "dataset": "philippians_lokele_english.jsonl",
+    "missing": "philippians_missing.json",
+    "metadata": "philippians_metadata.json"
+  }
+}

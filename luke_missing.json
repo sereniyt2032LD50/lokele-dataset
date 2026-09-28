@@ -1,0 +1,16 @@
+{
+  "book": "Luke",
+  "book_code": "LUK",
+  "missing_lokele": [
+    "LUK.5.39",
+    "LUK.7.50",
+    "LUK.17.36",
+    "LUK.18.43",
+    "LUK.20.4",
+    "LUK.23.51",
+    "LUK.24.48"
+  ],
+  "missing_english": [],
+  "missing_lokele_count": 7,
+  "missing_english_count": 0
+}

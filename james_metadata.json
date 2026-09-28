@@ -1,0 +1,38 @@
+{
+  "dataset": "Lokele-English Parallel Corpus",
+  "book": "James",
+  "book_code": "JAS",
+  "chapters": {
+    "start": 1,
+    "end": 5
+  },
+  "lokele": {
+    "language": "Lokele",
+    "translation": "NTKE58",
+    "bible_com_version_id": 1496
+  },
+  "english": {
+    "language": "English",
+    "translation": "WEBUS",
+    "bible_com_version_id": 206
+  },
+  "statistics": {
+    "lokele_verses": 108,
+    "english_verses": 108,
+    "aligned_verses": 108,
+    "missing_lokele": 0,
+    "missing_english": 0,
+    "pages_processed": 10,
+    "pages_failed": 0,
+    "pages_expected": 10
+  },
+  "status": {
+    "complete": true,
+    "finish_reason": "finished"
+  },
+  "files": {
+    "dataset": "james_lokele_english.jsonl",
+    "missing": "james_missing.json",
+    "metadata": "james_metadata.json"
+  }
+}

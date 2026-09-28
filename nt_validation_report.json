@@ -1,0 +1,879 @@
+{
+  "dataset_folder": "C:\\Users\\aisha\\Documents\\Generative-AI\\lokele_dataset",
+  "jsonl_files_found": 27,
+  "total_records": 7919,
+  "unique_verse_ids": 7919,
+  "expected_books": 27,
+  "books_found": 27,
+  "missing_books": [],
+  "unexpected_books": [],
+  "duplicate_ids": {},
+  "empty_lokele": [],
+  "empty_english": [],
+  "missing_ids": [],
+  "missing_required_fields": [],
+  "malformed_json_lines": [],
+  "alignment_issues": [],
+  "book_stats": {
+    "MAT": {
+      "book": "Matthew",
+      "records": 1067,
+      "unique_ids": 1067,
+      "duplicate_ids": 0,
+      "missing_lokele_in_dataset": [],
+      "missing_english_in_dataset": [],
+      "confirmed_source_omissions": [],
+      "source_missing_report": {
+        "book": "Matthew",
+        "book_code": "MAT",
+        "missing_lokele": [
+          "MAT.3.17",
+          "MAT.7.29",
+          "MAT.17.21",
+          "MAT.23.14"
+        ],
+        "missing_english": [],
+        "missing_lokele_count": 4,
+        "missing_english_count": 0
+      }
+    },
+    "MRK": {
+      "book": "Mark",
+      "records": 667,
+      "unique_ids": 667,
+      "duplicate_ids": 0,
+      "missing_lokele_in_dataset": [],
+      "missing_english_in_dataset": [],
+      "confirmed_source_omissions": [],
+      "source_missing_report": {
+        "book": "Mark",
+        "book_code": "MRK",
+        "missing_lokele": [
+          "MRK.3.35",
+          "MRK.4.3",
+          "MRK.7.16",
+          "MRK.9.44",
+          "MRK.9.46",
+          "MRK.11.26",
+          "MRK.13.20",
+          "MRK.15.28",
+          "MRK.15.36",
+          "MRK.16.10",
+          "MRK.16.20"
+        ],
+        "missing_english": [
+          "MRK.11.34"
+        ],
+        "missing_lokele_count": 11,
+        "missing_english_count": 1
+      }
+    },
+    "LUK": {
+      "book": "Luke",
+      "records": 1144,
+      "unique_ids": 1144,
+      "duplicate_ids": 0,
+      "missing_lokele_in_dataset": [],
+      "missing_english_in_dataset": [],
+      "confirmed_source_omissions": [
+        "LUK.5.39",
+        "LUK.7.50",
+        "LUK.17.36",
+        "LUK.18.43",
+        "LUK.20.4",
+        "LUK.23.51",
+        "LUK.24.48"
+      ],
+      "source_missing_report": {
+        "book": "Luke",
+        "book_code": "LUK",
+        "missing_lokele": [
+          "LUK.5.39",
+          "LUK.7.50",
+          "LUK.17.36",
+          "LUK.18.43",
+          "LUK.20.4",
+          "LUK.23.51",
+          "LUK.24.48"
+        ],
+        "missing_english": [],
+        "missing_lokele_count": 7,
+        "missing_english_count": 0
+      }
+    },
+    "JHN": {
+      "book": "John",
+      "records": 874,
+      "unique_ids": 874,
+      "duplicate_ids": 0,
+      "missing_lokele_in_dataset": [],
+      "missing_english_in_dataset": [],
+      "confirmed_source_omissions": [],
+      "source_missing_report": {
+        "book": "John",
+        "book_code": "JHN",
+        "missing_lokele": [
+          "JHN.1.36",
+          "JHN.2.25",
+          "JHN.5.4",
+          "JHN.12.28",
+          "JHN.14.4"
+        ],
+        "missing_english": [],
+        "missing_lokele_count": 5,
+        "missing_english_count": 0
+      }
+    },
+    "ACT": {
+      "book": "Acts",
+      "records": 1004,
+      "unique_ids": 1004,
+      "duplicate_ids": 0,
+      "missing_lokele_in_dataset": [],
+      "missing_english_in_dataset": [],
+      "confirmed_source_omissions": [
+        "ACT.7.29",
+        "ACT.7.51",
+        "ACT.15.34"
+      ],
+      "source_missing_report": {
+        "book": "Acts",
+        "book_code": "ACT",
+        "missing_lokele": [
+          "ACT.7.29",
+          "ACT.7.51",
+          "ACT.15.34"
+        ],
+        "missing_english": [],
+        "missing_lokele_count": 3,
+        "missing_english_count": 0
+      }
+    },
+    "ROM": {
+      "book": "Romans",
+      "records": 428,
+      "unique_ids": 428,
+      "duplicate_ids": 0,
+      "missing_lokele_in_dataset": [],
+      "missing_english_in_dataset": [],
+      "confirmed_source_omissions": [],
+      "source_missing_report": {
+        "book": "Romans",
+        "book_code": "ROM",
+        "missing_lokele": [
+          "ROM.9.33",
+          "ROM.12.21",
+          "ROM.14.24",
+          "ROM.14.25",
+          "ROM.14.26",
+          "ROM.16.24"
+        ],
+        "missing_english": [
+          "ROM.16.26",
+          "ROM.16.27"
+        ],
+        "missing_lokele_count": 6,
+        "missing_english_count": 2
+      }
+    },
+    "1CO": {
+      "book": "1 Corinthians",
+      "records": 436,
+      "unique_ids": 436,
+      "duplicate_ids": 0,
+      "missing_lokele_in_dataset": [],
+      "missing_english_in_dataset": [],
+      "confirmed_source_omissions": [],
+      "source_missing_report": {
+        "book": "1 Corinthians",
+        "book_code": "1CO",
+        "missing_lokele": [
+          "1CO.11.2"
+        ],
+        "missing_english": [],
+        "missing_lokele_count": 1,
+        "missing_english_count": 0
+      }
+    },
+    "2CO": {
+      "book": "2 Corinthians",
+      "records": 257,
+      "unique_ids": 257,
+      "duplicate_ids": 0,
+      "missing_lokele_in_dataset": [],
+      "missing_english_in_dataset": [],
+      "confirmed_source_omissions": [],
+      "source_missing_report": {
+        "book": "2 Corinthians",
+        "book_code": "2CO",
+        "missing_lokele": [],
+        "missing_english": [],
+        "missing_lokele_count": 0,
+        "missing_english_count": 0
+      }
+    },
+    "GAL": {
+      "book": "Galatians",
+      "records": 149,
+      "unique_ids": 149,
+      "duplicate_ids": 0,
+      "missing_lokele_in_dataset": [],
+      "missing_english_in_dataset": [],
+      "confirmed_source_omissions": [],
+      "source_missing_report": {
+        "book": "Galatians",
+        "book_code": "GAL",
+        "missing_lokele": [],
+        "missing_english": [],
+        "missing_lokele_count": 0,
+        "missing_english_count": 0
+      }
+    },
+    "EPH": {
+      "book": "Ephesians",
+      "records": 155,
+      "unique_ids": 155,
+      "duplicate_ids": 0,
+      "missing_lokele_in_dataset": [],
+      "missing_english_in_dataset": [],
+      "confirmed_source_omissions": [],
+      "source_missing_report": {
+        "book": "Ephesians",
+        "book_code": "EPH",
+        "missing_lokele": [],
+        "missing_english": [],
+        "missing_lokele_count": 0,
+        "missing_english_count": 0
+      }
+    },
+    "PHP": {
+      "book": "Philippians",
+      "records": 104,
+      "unique_ids": 104,
+      "duplicate_ids": 0,
+      "missing_lokele_in_dataset": [],
+      "missing_english_in_dataset": [],
+      "confirmed_source_omissions": [],
+      "source_missing_report": {
+        "book": "Philippians",
+        "book_code": "PHP",
+        "missing_lokele": [],
+        "missing_english": [],
+        "missing_lokele_count": 0,
+        "missing_english_count": 0
+      }
+    },
+    "COL": {
+      "book": "Colossians",
+      "records": 95,
+      "unique_ids": 95,
+      "duplicate_ids": 0,
+      "missing_lokele_in_dataset": [],
+      "missing_english_in_dataset": [],
+      "confirmed_source_omissions": [],
+      "source_missing_report": {
+        "book": "Colossians",
+        "book_code": "COL",
+        "missing_lokele": [],
+        "missing_english": [],
+        "missing_lokele_count": 0,
+        "missing_english_count": 0
+      }
+    },
+    "1TH": {
+      "book": "1 Thessalonians",
+      "records": 89,
+      "unique_ids": 89,
+      "duplicate_ids": 0,
+      "missing_lokele_in_dataset": [],
+      "missing_english_in_dataset": [],
+      "confirmed_source_omissions": [],
+      "source_missing_report": {
+        "book": "1 Thessalonians",
+        "book_code": "1TH",
+        "missing_lokele": [],
+        "missing_english": [],
+        "missing_lokele_count": 0,
+        "missing_english_count": 0
+      }
+    },
+    "2TH": {
+      "book": "2 Thessalonians",
+      "records": 47,
+      "unique_ids": 47,
+      "duplicate_ids": 0,
+      "missing_lokele_in_dataset": [],
+      "missing_english_in_dataset": [],
+      "confirmed_source_omissions": [],
+      "source_missing_report": {
+        "book": "2 Thessalonians",
+        "book_code": "2TH",
+        "missing_lokele": [],
+        "missing_english": [],
+        "missing_lokele_count": 0,
+        "missing_english_count": 0
+      }
+    },
+    "1TI": {
+      "book": "1 Timothy",
+      "records": 113,
+      "unique_ids": 113,
+      "duplicate_ids": 0,
+      "missing_lokele_in_dataset": [],
+      "missing_english_in_dataset": [],
+      "confirmed_source_omissions": [],
+      "source_missing_report": {
+        "book": "1 Timothy",
+        "book_code": "1TI",
+        "missing_lokele": [],
+        "missing_english": [],
+        "missing_lokele_count": 0,
+        "missing_english_count": 0
+      }
+    },
+    "2TI": {
+      "book": "2 Timothy",
+      "records": 83,
+      "unique_ids": 83,
+      "duplicate_ids": 0,
+      "missing_lokele_in_dataset": [],
+      "missing_english_in_dataset": [],
+      "confirmed_source_omissions": [],
+      "source_missing_report": {
+        "book": "2 Timothy",
+        "book_code": "2TI",
+        "missing_lokele": [],
+        "missing_english": [],
+        "missing_lokele_count": 0,
+        "missing_english_count": 0
+      }
+    },
+    "TIT": {
+      "book": "Titus",
+      "records": 46,
+      "unique_ids": 46,
+      "duplicate_ids": 0,
+      "missing_lokele_in_dataset": [],
+      "missing_english_in_dataset": [],
+      "confirmed_source_omissions": [],
+      "source_missing_report": {
+        "book": "Titus",
+        "book_code": "TIT",
+        "missing_lokele": [],
+        "missing_english": [],
+        "missing_lokele_count": 0,
+        "missing_english_count": 0
+      }
+    },
+    "PHM": {
+      "book": "Philemon",
+      "records": 25,
+      "unique_ids": 25,
+      "duplicate_ids": 0,
+      "missing_lokele_in_dataset": [],
+      "missing_english_in_dataset": [],
+      "confirmed_source_omissions": [],
+      "source_missing_report": {
+        "book": "Philemon",
+        "book_code": "PHM",
+        "missing_lokele": [],
+        "missing_english": [],
+        "missing_lokele_count": 0,
+        "missing_english_count": 0
+      }
+    },
+    "HEB": {
+      "book": "Hebrews",
+      "records": 302,
+      "unique_ids": 302,
+      "duplicate_ids": 0,
+      "missing_lokele_in_dataset": [],
+      "missing_english_in_dataset": [],
+      "confirmed_source_omissions": [],
+      "source_missing_report": {
+        "book": "Hebrews",
+        "book_code": "HEB",
+        "missing_lokele": [
+          "HEB.10.27"
+        ],
+        "missing_english": [],
+        "missing_lokele_count": 1,
+        "missing_english_count": 0
+      }
+    },
+    "JAS": {
+      "book": "James",
+      "records": 108,
+      "unique_ids": 108,
+      "duplicate_ids": 0,
+      "missing_lokele_in_dataset": [],
+      "missing_english_in_dataset": [],
+      "confirmed_source_omissions": [],
+      "source_missing_report": {
+        "book": "James",
+        "book_code": "JAS",
+        "missing_lokele": [],
+        "missing_english": [],
+        "missing_lokele_count": 0,
+        "missing_english_count": 0
+      }
+    },
+    "1PE": {
+      "book": "1 Peter",
+      "records": 105,
+      "unique_ids": 105,
+      "duplicate_ids": 0,
+      "missing_lokele_in_dataset": [],
+      "missing_english_in_dataset": [],
+      "confirmed_source_omissions": [],
+      "source_missing_report": {
+        "book": "1 Peter",
+        "book_code": "1PE",
+        "missing_lokele": [],
+        "missing_english": [],
+        "missing_lokele_count": 0,
+        "missing_english_count": 0
+      }
+    },
+    "2PE": {
+      "book": "2 Peter",
+      "records": 61,
+      "unique_ids": 61,
+      "duplicate_ids": 0,
+      "missing_lokele_in_dataset": [],
+      "missing_english_in_dataset": [],
+      "confirmed_source_omissions": [],
+      "source_missing_report": {
+        "book": "2 Peter",
+        "book_code": "2PE",
+        "missing_lokele": [],
+        "missing_english": [],
+        "missing_lokele_count": 0,
+        "missing_english_count": 0
+      }
+    },
+    "1JN": {
+      "book": "1 John",
+      "records": 105,
+      "unique_ids": 105,
+      "duplicate_ids": 0,
+      "missing_lokele_in_dataset": [],
+      "missing_english_in_dataset": [],
+      "confirmed_source_omissions": [],
+      "source_missing_report": {
+        "book": "1 John",
+        "book_code": "1JN",
+        "missing_lokele": [],
+        "missing_english": [],
+        "missing_lokele_count": 0,
+        "missing_english_count": 0
+      }
+    },
+    "2JN": {
+      "book": "2 John",
+      "records": 13,
+      "unique_ids": 13,
+      "duplicate_ids": 0,
+      "missing_lokele_in_dataset": [],
+      "missing_english_in_dataset": [],
+      "confirmed_source_omissions": [],
+      "source_missing_report": {
+        "book": "2 John",
+        "book_code": "2JN",
+        "missing_lokele": [],
+        "missing_english": [],
+        "missing_lokele_count": 0,
+        "missing_english_count": 0
+      }
+    },
+    "3JN": {
+      "book": "3 John",
+      "records": 14,
+      "unique_ids": 14,
+      "duplicate_ids": 0,
+      "missing_lokele_in_dataset": [],
+      "missing_english_in_dataset": [],
+      "confirmed_source_omissions": [],
+      "source_missing_report": {
+        "book": "3 John",
+        "book_code": "3JN",
+        "missing_lokele": [],
+        "missing_english": [
+          "3JN.1.15"
+        ],
+        "missing_lokele_count": 0,
+        "missing_english_count": 1
+      }
+    },
+    "JUD": {
+      "book": "Jude",
+      "records": 25,
+      "unique_ids": 25,
+      "duplicate_ids": 0,
+      "missing_lokele_in_dataset": [],
+      "missing_english_in_dataset": [],
+      "confirmed_source_omissions": [],
+      "source_missing_report": {
+        "book": "Jude",
+        "book_code": "JUD",
+        "missing_lokele": [],
+        "missing_english": [],
+        "missing_lokele_count": 0,
+        "missing_english_count": 0
+      }
+    },
+    "REV": {
+      "book": "Revelation",
+      "records": 403,
+      "unique_ids": 403,
+      "duplicate_ids": 0,
+      "missing_lokele_in_dataset": [],
+      "missing_english_in_dataset": [],
+      "confirmed_source_omissions": [],
+      "source_missing_report": {
+        "book": "Revelation",
+        "book_code": "REV",
+        "missing_lokele": [
+          "REV.10.6"
+        ],
+        "missing_english": [
+          "REV.12.18"
+        ],
+        "missing_lokele_count": 1,
+        "missing_english_count": 1
+      }
+    }
+  },
+  "chapter_stats": {
+    "MAT": {
+      "1": 25,
+      "2": 23,
+      "3": 16,
+      "4": 25,
+      "5": 48,
+      "6": 34,
+      "7": 28,
+      "8": 34,
+      "9": 38,
+      "10": 42,
+      "11": 30,
+      "12": 50,
+      "13": 58,
+      "14": 36,
+      "15": 39,
+      "16": 28,
+      "17": 26,
+      "18": 35,
+      "19": 30,
+      "20": 34,
+      "21": 46,
+      "22": 46,
+      "23": 38,
+      "24": 51,
+      "25": 46,
+      "26": 75,
+      "27": 66,
+      "28": 20
+    },
+    "MRK": {
+      "1": 45,
+      "2": 28,
+      "3": 34,
+      "4": 40,
+      "5": 43,
+      "6": 56,
+      "7": 36,
+      "8": 38,
+      "9": 48,
+      "10": 52,
+      "11": 32,
+      "12": 44,
+      "13": 36,
+      "14": 72,
+      "15": 45,
+      "16": 18
+    },
+    "LUK": {
+      "1": 80,
+      "2": 52,
+      "3": 38,
+      "4": 44,
+      "5": 38,
+      "6": 49,
+      "7": 49,
+      "8": 56,
+      "9": 62,
+      "10": 42,
+      "11": 54,
+      "12": 59,
+      "13": 35,
+      "14": 35,
+      "15": 32,
+      "16": 31,
+      "17": 36,
+      "18": 42,
+      "19": 48,
+      "20": 46,
+      "21": 38,
+      "22": 71,
+      "23": 55,
+      "24": 52
+    },
+    "JHN": {
+      "1": 50,
+      "2": 24,
+      "3": 36,
+      "4": 54,
+      "5": 46,
+      "6": 71,
+      "7": 53,
+      "8": 59,
+      "9": 41,
+      "10": 42,
+      "11": 57,
+      "12": 49,
+      "13": 38,
+      "14": 30,
+      "15": 27,
+      "16": 33,
+      "17": 26,
+      "18": 40,
+      "19": 42,
+      "20": 31,
+      "21": 25
+    },
+    "ACT": {
+      "1": 26,
+      "2": 47,
+      "3": 26,
+      "4": 37,
+      "5": 42,
+      "6": 15,
+      "7": 58,
+      "8": 40,
+      "9": 43,
+      "10": 48,
+      "11": 30,
+      "12": 25,
+      "13": 52,
+      "14": 28,
+      "15": 40,
+      "16": 40,
+      "17": 34,
+      "18": 28,
+      "19": 41,
+      "20": 38,
+      "21": 40,
+      "22": 30,
+      "23": 35,
+      "24": 27,
+      "25": 27,
+      "26": 32,
+      "27": 44,
+      "28": 31
+    },
+    "ROM": {
+      "1": 32,
+      "2": 29,
+      "3": 31,
+      "4": 25,
+      "5": 21,
+      "6": 23,
+      "7": 25,
+      "8": 39,
+      "9": 32,
+      "10": 21,
+      "11": 36,
+      "12": 20,
+      "13": 14,
+      "14": 23,
+      "15": 33,
+      "16": 24
+    },
+    "1CO": {
+      "1": 31,
+      "2": 16,
+      "3": 23,
+      "4": 21,
+      "5": 13,
+      "6": 20,
+      "7": 40,
+      "8": 13,
+      "9": 27,
+      "10": 33,
+      "11": 33,
+      "12": 31,
+      "13": 13,
+      "14": 40,
+      "15": 58,
+      "16": 24
+    },
+    "2CO": {
+      "1": 24,
+      "2": 17,
+      "3": 18,
+      "4": 18,
+      "5": 21,
+      "6": 18,
+      "7": 16,
+      "8": 24,
+      "9": 15,
+      "10": 18,
+      "11": 33,
+      "12": 21,
+      "13": 14
+    },
+    "GAL": {
+      "1": 24,
+      "2": 21,
+      "3": 29,
+      "4": 31,
+      "5": 26,
+      "6": 18
+    },
+    "EPH": {
+      "1": 23,
+      "2": 22,
+      "3": 21,
+      "4": 32,
+      "5": 33,
+      "6": 24
+    },
+    "PHP": {
+      "1": 30,
+      "2": 30,
+      "3": 21,
+      "4": 23
+    },
+    "COL": {
+      "1": 29,
+      "2": 23,
+      "3": 25,
+      "4": 18
+    },
+    "1TH": {
+      "1": 10,
+      "2": 20,
+      "3": 13,
+      "4": 18,
+      "5": 28
+    },
+    "2TH": {
+      "1": 12,
+      "2": 17,
+      "3": 18
+    },
+    "1TI": {
+      "1": 20,
+      "2": 15,
+      "3": 16,
+      "4": 16,
+      "5": 25,
+      "6": 21
+    },
+    "2TI": {
+      "1": 18,
+      "2": 26,
+      "3": 17,
+      "4": 22
+    },
+    "TIT": {
+      "1": 16,
+      "2": 15,
+      "3": 15
+    },
+    "PHM": {
+      "1": 25
+    },
+    "HEB": {
+      "1": 14,
+      "2": 18,
+      "3": 19,
+      "4": 16,
+      "5": 14,
+      "6": 20,
+      "7": 28,
+      "8": 13,
+      "9": 28,
+      "10": 38,
+      "11": 40,
+      "12": 29,
+      "13": 25
+    },
+    "JAS": {
+      "1": 27,
+      "2": 26,
+      "3": 18,
+      "4": 17,
+      "5": 20
+    },
+    "1PE": {
+      "1": 25,
+      "2": 25,
+      "3": 22,
+      "4": 19,
+      "5": 14
+    },
+    "2PE": {
+      "1": 21,
+      "2": 22,
+      "3": 18
+    },
+    "1JN": {
+      "1": 10,
+      "2": 29,
+      "3": 24,
+      "4": 21,
+      "5": 21
+    },
+    "2JN": {
+      "1": 13
+    },
+    "3JN": {
+      "1": 14
+    },
+    "JUD": {
+      "1": 25
+    },
+    "REV": {
+      "1": 20,
+      "2": 29,
+      "3": 22,
+      "4": 11,
+      "5": 14,
+      "6": 17,
+      "7": 17,
+      "8": 13,
+      "9": 21,
+      "10": 10,
+      "11": 19,
+      "12": 17,
+      "13": 18,
+      "14": 20,
+      "15": 8,
+      "16": 21,
+      "17": 18,
+      "18": 24,
+      "19": 21,
+      "20": 15,
+      "21": 27,
+      "22": 21
+    }
+  },
+  "confirmed_source_omissions": {
+    "LUK": [
+      "LUK.5.39",
+      "LUK.7.50",
+      "LUK.17.36",
+      "LUK.18.43",
+      "LUK.20.4",
+      "LUK.23.51",
+      "LUK.24.48"
+    ],
+    "ACT": [
+      "ACT.7.29",
+      "ACT.7.51",
+      "ACT.15.34"
+    ]
+  }
+}

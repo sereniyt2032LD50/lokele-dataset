@@ -1,0 +1,38 @@
+{
+  "dataset": "Lokele-English Parallel Corpus",
+  "book": "Hebrews",
+  "book_code": "HEB",
+  "chapters": {
+    "start": 1,
+    "end": 13
+  },
+  "lokele": {
+    "language": "Lokele",
+    "translation": "NTKE58",
+    "bible_com_version_id": 1496
+  },
+  "english": {
+    "language": "English",
+    "translation": "WEBUS",
+    "bible_com_version_id": 206
+  },
+  "statistics": {
+    "lokele_verses": 302,
+    "english_verses": 303,
+    "aligned_verses": 302,
+    "missing_lokele": 1,
+    "missing_english": 0,
+    "pages_processed": 26,
+    "pages_failed": 0,
+    "pages_expected": 26
+  },
+  "status": {
+    "complete": false,
+    "finish_reason": "finished"
+  },
+  "files": {
+    "dataset": "hebrews_lokele_english.jsonl",
+    "missing": "hebrews_missing.json",
+    "metadata": "hebrews_metadata.json"
+  }
+}

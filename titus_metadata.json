@@ -1,0 +1,38 @@
+{
+  "dataset": "Lokele-English Parallel Corpus",
+  "book": "Titus",
+  "book_code": "TIT",
+  "chapters": {
+    "start": 1,
+    "end": 3
+  },
+  "lokele": {
+    "language": "Lokele",
+    "translation": "NTKE58",
+    "bible_com_version_id": 1496
+  },
+  "english": {
+    "language": "English",
+    "translation": "WEBUS",
+    "bible_com_version_id": 206
+  },
+  "statistics": {
+    "lokele_verses": 46,
+    "english_verses": 46,
+    "aligned_verses": 46,
+    "missing_lokele": 0,
+    "missing_english": 0,
+    "pages_processed": 6,
+    "pages_failed": 0,
+    "pages_expected": 6
+  },
+  "status": {
+    "complete": true,
+    "finish_reason": "finished"
+  },
+  "files": {
+    "dataset": "titus_lokele_english.jsonl",
+    "missing": "titus_missing.json",
+    "metadata": "titus_metadata.json"
+  }
+}

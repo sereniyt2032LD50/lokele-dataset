@@ -1,0 +1,38 @@
+{
+  "dataset": "Lokele-English Parallel Corpus",
+  "book": "Romans",
+  "book_code": "ROM",
+  "chapters": {
+    "start": 1,
+    "end": 16
+  },
+  "lokele": {
+    "language": "Lokele",
+    "translation": "NTKE58",
+    "bible_com_version_id": 1496
+  },
+  "english": {
+    "language": "English",
+    "translation": "WEBUS",
+    "bible_com_version_id": 206
+  },
+  "statistics": {
+    "lokele_verses": 430,
+    "english_verses": 434,
+    "aligned_verses": 428,
+    "missing_lokele": 6,
+    "missing_english": 2,
+    "pages_processed": 32,
+    "pages_failed": 0,
+    "pages_expected": 32
+  },
+  "status": {
+    "complete": false,
+    "finish_reason": "finished"
+  },
+  "files": {
+    "dataset": "romans_lokele_english.jsonl",
+    "missing": "romans_missing.json",
+    "metadata": "romans_metadata.json"
+  }
+}

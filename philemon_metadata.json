@@ -1,0 +1,38 @@
+{
+  "dataset": "Lokele-English Parallel Corpus",
+  "book": "Philemon",
+  "book_code": "PHM",
+  "chapters": {
+    "start": 1,
+    "end": 1
+  },
+  "lokele": {
+    "language": "Lokele",
+    "translation": "NTKE58",
+    "bible_com_version_id": 1496
+  },
+  "english": {
+    "language": "English",
+    "translation": "WEBUS",
+    "bible_com_version_id": 206
+  },
+  "statistics": {
+    "lokele_verses": 25,
+    "english_verses": 25,
+    "aligned_verses": 25,
+    "missing_lokele": 0,
+    "missing_english": 0,
+    "pages_processed": 2,
+    "pages_failed": 0,
+    "pages_expected": 2
+  },
+  "status": {
+    "complete": true,
+    "finish_reason": "finished"
+  },
+  "files": {
+    "dataset": "philemon_lokele_english.jsonl",
+    "missing": "philemon_missing.json",
+    "metadata": "philemon_metadata.json"
+  }
+}

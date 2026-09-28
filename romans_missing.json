@@ -1,0 +1,18 @@
+{
+  "book": "Romans",
+  "book_code": "ROM",
+  "missing_lokele": [
+    "ROM.9.33",
+    "ROM.12.21",
+    "ROM.14.24",
+    "ROM.14.25",
+    "ROM.14.26",
+    "ROM.16.24"
+  ],
+  "missing_english": [
+    "ROM.16.26",
+    "ROM.16.27"
+  ],
+  "missing_lokele_count": 6,
+  "missing_english_count": 2
+}

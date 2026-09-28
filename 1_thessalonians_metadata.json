@@ -1,0 +1,38 @@
+{
+  "dataset": "Lokele-English Parallel Corpus",
+  "book": "1 Thessalonians",
+  "book_code": "1TH",
+  "chapters": {
+    "start": 1,
+    "end": 5
+  },
+  "lokele": {
+    "language": "Lokele",
+    "translation": "NTKE58",
+    "bible_com_version_id": 1496
+  },
+  "english": {
+    "language": "English",
+    "translation": "WEBUS",
+    "bible_com_version_id": 206
+  },
+  "statistics": {
+    "lokele_verses": 89,
+    "english_verses": 89,
+    "aligned_verses": 89,
+    "missing_lokele": 0,
+    "missing_english": 0,
+    "pages_processed": 10,
+    "pages_failed": 0,
+    "pages_expected": 10
+  },
+  "status": {
+    "complete": true,
+    "finish_reason": "finished"
+  },
+  "files": {
+    "dataset": "1_thessalonians_lokele_english.jsonl",
+    "missing": "1_thessalonians_missing.json",
+    "metadata": "1_thessalonians_metadata.json"
+  }
+}

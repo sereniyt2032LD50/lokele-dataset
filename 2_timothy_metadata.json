@@ -1,0 +1,38 @@
+{
+  "dataset": "Lokele-English Parallel Corpus",
+  "book": "2 Timothy",
+  "book_code": "2TI",
+  "chapters": {
+    "start": 1,
+    "end": 4
+  },
+  "lokele": {
+    "language": "Lokele",
+    "translation": "NTKE58",
+    "bible_com_version_id": 1496
+  },
+  "english": {
+    "language": "English",
+    "translation": "WEBUS",
+    "bible_com_version_id": 206
+  },
+  "statistics": {
+    "lokele_verses": 83,
+    "english_verses": 83,
+    "aligned_verses": 83,
+    "missing_lokele": 0,
+    "missing_english": 0,
+    "pages_processed": 8,
+    "pages_failed": 0,
+    "pages_expected": 8
+  },
+  "status": {
+    "complete": true,
+    "finish_reason": "finished"
+  },
+  "files": {
+    "dataset": "2_timothy_lokele_english.jsonl",
+    "missing": "2_timothy_missing.json",
+    "metadata": "2_timothy_metadata.json"
+  }
+}

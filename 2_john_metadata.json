@@ -1,0 +1,38 @@
+{
+  "dataset": "Lokele-English Parallel Corpus",
+  "book": "2 John",
+  "book_code": "2JN",
+  "chapters": {
+    "start": 1,
+    "end": 1
+  },
+  "lokele": {
+    "language": "Lokele",
+    "translation": "NTKE58",
+    "bible_com_version_id": 1496
+  },
+  "english": {
+    "language": "English",
+    "translation": "WEBUS",
+    "bible_com_version_id": 206
+  },
+  "statistics": {
+    "lokele_verses": 13,
+    "english_verses": 13,
+    "aligned_verses": 13,
+    "missing_lokele": 0,
+    "missing_english": 0,
+    "pages_processed": 2,
+    "pages_failed": 0,
+    "pages_expected": 2
+  },
+  "status": {
+    "complete": true,
+    "finish_reason": "finished"
+  },
+  "files": {
+    "dataset": "2_john_lokele_english.jsonl",
+    "missing": "2_john_missing.json",
+    "metadata": "2_john_metadata.json"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "book": "Revelation",
+  "book_code": "REV",
+  "missing_lokele": [
+    "REV.10.6"
+  ],
+  "missing_english": [
+    "REV.12.18"
+  ],
+  "missing_lokele_count": 1,
+  "missing_english_count": 1
+}

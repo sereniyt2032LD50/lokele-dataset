@@ -1,0 +1,14 @@
+{
+  "book": "John",
+  "book_code": "JHN",
+  "missing_lokele": [
+    "JHN.1.36",
+    "JHN.2.25",
+    "JHN.5.4",
+    "JHN.12.28",
+    "JHN.14.4"
+  ],
+  "missing_english": [],
+  "missing_lokele_count": 5,
+  "missing_english_count": 0
+}

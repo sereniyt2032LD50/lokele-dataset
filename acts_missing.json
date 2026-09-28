@@ -1,0 +1,12 @@
+{
+  "book": "Acts",
+  "book_code": "ACT",
+  "missing_lokele": [
+    "ACT.7.29",
+    "ACT.7.51",
+    "ACT.15.34"
+  ],
+  "missing_english": [],
+  "missing_lokele_count": 3,
+  "missing_english_count": 0
+}
